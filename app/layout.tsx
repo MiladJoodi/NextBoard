@@ -12,9 +12,6 @@ const spaceGrotesk = Space_Grotesk({ subsets: ["latin"], variable: "--font-space
 export const metadata: Metadata = {
   title: "NextBoard",
   description: "NextBoard - Comprehensive dashboard management system",
-  icons: {
-    icon: "/icon.svg",
-  },
 }
 
 export default function RootLayout({
