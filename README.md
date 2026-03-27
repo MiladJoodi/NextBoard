@@ -4,12 +4,6 @@ A modern, responsive admin dashboard built with **Next.js 16**, **React 19**, **
 
 If you find this project useful, please give it a star! This project is **open source** and contributions are welcome.
 
-## Preview
-
-| Light Mode | Dark Mode |
-|:---:|:---:|
-| ![Light](public/placeholder.svg) | ![Dark](public/placeholder.svg) |
-
 ## Tech Stack
 
 - **Framework:** Next.js 16 (App Router)
